@@ -14,9 +14,10 @@
 
 ###
 
-<p align="left">I'm a recent Computer Science graduate from the University of Houston with a sweet spot for web development.
-  <br>Explore, connect, and experience the world as I see it, one project at a time.
-</p>
+<div align="left">
+  <p>I'm a recent Computer Science graduate from the University of Houston with a sweet spot for web development. Fueled by curiosity and a drive to solve complex problems, I’m always exploring new technologies to create meaningful and user-friendly digital experiences.</p>
+  <p>Explore, connect, and experience the world as I see it, one project at a time.</p>
+</div>
 
 ###
 
